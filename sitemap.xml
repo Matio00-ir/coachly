@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<!-- Home -->
+<url>
+  <loc>https://coachly.app/en/</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://coachly.app/en/"/>
+  <xhtml:link rel="alternate" hreflang="fa" href="https://coachly.app/fa/"/>
+</url>
+<url>
+  <loc>https://coachly.app/fa/</loc>
+  <xhtml:link rel="alternate" hreflang="en" href="https://coachly.app/en/"/>
+  <xhtml:link rel="alternate" hreflang="fa" href="https://coachly.app/fa/"/>
+</url>
+<!-- Features -->
+<url><loc>https://coachly.app/en/features.html</loc><xhtml:link rel="alternate" hreflang="fa" href="https://coachly.app/fa/features.html"/></url>
+<url><loc>https://coachly.app/fa/features.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://coachly.app/en/features.html"/></url>
+<!-- For Coaches -->
+<url><loc>https://coachly.app/en/for-coaches.html</loc><xhtml:link rel="alternate" hreflang="fa" href="https://coachly.app/fa/for-coaches.html"/></url>
+<url><loc>https://coachly.app/fa/for-coaches.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://coachly.app/en/for-coaches.html"/></url>
+<!-- For Athletes -->
+<url><loc>https://coachly.app/en/for-athletes.html</loc><xhtml:link rel="alternate" hreflang="fa" href="https://coachly.app/fa/for-athletes.html"/></url>
+<url><loc>https://coachly.app/fa/for-athletes.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://coachly.app/en/for-athletes.html"/></url>
+<!-- Pricing -->
+<url><loc>https://coachly.app/en/pricing.html</loc><xhtml:link rel="alternate" hreflang="fa" href="https://coachly.app/fa/pricing.html"/></url>
+<url><loc>https://coachly.app/fa/pricing.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://coachly.app/en/pricing.html"/></url>
+<!-- About -->
+<url><loc>https://coachly.app/en/about.html</loc><xhtml:link rel="alternate" hreflang="fa" href="https://coachly.app/fa/about.html"/></url>
+<url><loc>https://coachly.app/fa/about.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://coachly.app/en/about.html"/></url>
+<!-- Contact -->
+<url><loc>https://coachly.app/en/contact.html</loc><xhtml:link rel="alternate" hreflang="fa" href="https://coachly.app/fa/contact.html"/></url>
+<url><loc>https://coachly.app/fa/contact.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://coachly.app/en/contact.html"/></url>
+<!-- Privacy / Terms -->
+<url><loc>https://coachly.app/en/privacy.html</loc><xhtml:link rel="alternate" hreflang="fa" href="https://coachly.app/fa/privacy.html"/></url>
+<url><loc>https://coachly.app/fa/privacy.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://coachly.app/en/privacy.html"/></url>
+<url><loc>https://coachly.app/en/terms.html</loc><xhtml:link rel="alternate" hreflang="fa" href="https://coachly.app/fa/terms.html"/></url>
+<url><loc>https://coachly.app/fa/terms.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://coachly.app/en/terms.html"/></url>
+<!-- Blog -->
+<url><loc>https://coachly.app/en/blog/</loc><xhtml:link rel="alternate" hreflang="fa" href="https://coachly.app/fa/blog/"/></url>
+<url><loc>https://coachly.app/fa/blog/</loc><xhtml:link rel="alternate" hreflang="en" href="https://coachly.app/en/blog/"/></url>
+<url><loc>https://coachly.app/en/blog/tracking-progress-without-spreadsheets.html</loc><xhtml:link rel="alternate" hreflang="fa" href="https://coachly.app/fa/blog/tracking-progress-without-spreadsheets.html"/></url>
+<url><loc>https://coachly.app/fa/blog/tracking-progress-without-spreadsheets.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://coachly.app/en/blog/tracking-progress-without-spreadsheets.html"/></url>
+</urlset>
